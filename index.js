@@ -1,4 +1,5 @@
-d3.select('h1').style('color', 'lightblue')
+
+d3.select('h1').style('color', 'lightcoral')
 .attr('id', 'heading')
 .text('Updated hello');
 
